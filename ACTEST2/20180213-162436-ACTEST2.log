@@ -1,0 +1,193 @@
+2018-02-13 16:24:36,914 [INFO] Logging started.
+2018-02-13 16:24:36,921 [WARNING] sensors module not loaded.
+2018-02-13 16:24:37,415 [INFO] Set exposure via v4l2-ctl.  Capturing/dumping frames so settings take effect before tracking starts.
+2018-02-13 16:24:37,675 [INFO] Starting phase: Phase(phasenum=0, length=5, dostim=False, background='')
+2018-02-13 16:24:37,806 [INFO] Saved frame 1.
+2018-02-13 16:24:38,697 [INFO] Tracking started at frame 10.
+2018-02-13 16:24:47,701 [INFO] Saved frame 100.
+2018-02-13 16:24:57,701 [INFO] Saved frame 200.
+2018-02-13 16:25:07,700 [INFO] Saved frame 300.
+2018-02-13 16:25:17,738 [INFO] Saved frame 400.
+2018-02-13 16:25:27,725 [INFO] Saved frame 500.
+2018-02-13 16:25:37,299 [INFO] Saved frame 596.
+2018-02-13 16:25:37,716 [INFO] Saved frame 600.
+2018-02-13 16:25:37,799 [INFO] Saved frame 601.
+2018-02-13 16:25:38,199 [INFO] Saved frame 605.
+2018-02-13 16:25:38,599 [INFO] Saved frame 609.
+2018-02-13 16:25:39,401 [INFO] Saved frame 617.
+2018-02-13 16:25:47,697 [INFO] Saved frame 700.
+2018-02-13 16:25:57,697 [INFO] Saved frame 800.
+2018-02-13 16:26:07,697 [INFO] Saved frame 900.
+2018-02-13 16:26:17,696 [INFO] Saved frame 1000.
+2018-02-13 16:26:17,698 [INFO] 99ms / frame : 10fps
+2018-02-13 16:26:27,696 [INFO] Saved frame 1100.
+2018-02-13 16:26:37,695 [INFO] Saved frame 1200.
+2018-02-13 16:26:47,695 [INFO] Saved frame 1300.
+2018-02-13 16:26:57,694 [INFO] Saved frame 1400.
+2018-02-13 16:27:07,693 [INFO] Saved frame 1500.
+2018-02-13 16:27:17,693 [INFO] Saved frame 1600.
+2018-02-13 16:27:27,692 [INFO] Saved frame 1700.
+2018-02-13 16:27:37,691 [INFO] Saved frame 1800.
+2018-02-13 16:27:47,690 [INFO] Saved frame 1900.
+2018-02-13 16:27:57,690 [INFO] Saved frame 2000.
+2018-02-13 16:27:57,691 [INFO] 99ms / frame : 10fps
+2018-02-13 16:28:07,689 [INFO] Saved frame 2100.
+2018-02-13 16:28:17,688 [INFO] Saved frame 2200.
+2018-02-13 16:28:27,688 [INFO] Saved frame 2300.
+2018-02-13 16:28:37,687 [INFO] Saved frame 2400.
+2018-02-13 16:28:47,686 [INFO] Saved frame 2500.
+2018-02-13 16:28:57,686 [INFO] Saved frame 2600.
+2018-02-13 16:29:07,685 [INFO] Saved frame 2700.
+2018-02-13 16:29:17,684 [INFO] Saved frame 2800.
+2018-02-13 16:29:27,684 [INFO] Saved frame 2900.
+2018-02-13 16:29:37,683 [INFO] Saved frame 3000.
+2018-02-13 16:29:37,684 [INFO] 99ms / frame : 10fps
+2018-02-13 16:29:37,686 [INFO] Starting phase: Phase(phasenum=1, length=5, dostim=True, background='')
+2018-02-13 16:29:47,682 [INFO] Saved frame 3100.
+2018-02-13 16:29:57,682 [INFO] Saved frame 3200.
+2018-02-13 16:30:07,681 [INFO] Saved frame 3300.
+2018-02-13 16:30:17,681 [INFO] Saved frame 3400.
+2018-02-13 16:30:27,680 [INFO] Saved frame 3500.
+2018-02-13 16:30:37,679 [INFO] Saved frame 3600.
+2018-02-13 16:30:47,678 [INFO] Saved frame 3700.
+2018-02-13 16:30:57,678 [INFO] Saved frame 3800.
+2018-02-13 16:31:07,677 [INFO] Saved frame 3900.
+2018-02-13 16:31:17,676 [INFO] Saved frame 4000.
+2018-02-13 16:31:17,678 [INFO] 99ms / frame : 10fps
+2018-02-13 16:31:27,676 [INFO] Saved frame 4100.
+2018-02-13 16:31:37,675 [INFO] Saved frame 4200.
+2018-02-13 16:31:47,675 [INFO] Saved frame 4300.
+2018-02-13 16:31:57,674 [INFO] Saved frame 4400.
+2018-02-13 16:32:07,673 [INFO] Saved frame 4500.
+2018-02-13 16:32:17,673 [INFO] Saved frame 4600.
+2018-02-13 16:32:27,672 [INFO] Saved frame 4700.
+2018-02-13 16:32:37,671 [INFO] Saved frame 4800.
+2018-02-13 16:32:47,671 [INFO] Saved frame 4900.
+2018-02-13 16:32:57,670 [INFO] Saved frame 5000.
+2018-02-13 16:32:57,671 [INFO] 99ms / frame : 10fps
+2018-02-13 16:33:07,668 [INFO] Saved frame 5100.
+2018-02-13 16:33:17,669 [INFO] Saved frame 5200.
+2018-02-13 16:33:27,668 [INFO] Saved frame 5300.
+2018-02-13 16:33:37,667 [INFO] Saved frame 5400.
+2018-02-13 16:33:44,865 [INFO] Point rejected due to distance: {pos: [68.28419328419328 98.4086814086814], dist: 71.162070, max_est_dist: 69.000000}
+2018-02-13 16:33:44,869 [INFO] Saved frame 5472.
+2018-02-13 16:33:44,963 [INFO] Point rejected due to acceleration: {pos: [68.28419328419328 98.4086814086814], vel: [-11.084118564877775 3.9660989552064825], new_vel: [124.57637316460846 0.8701856937151007], accel: 135.695813}
+2018-02-13 16:33:46,462 [INFO] Point rejected due to distance: {pos: [35.66064981949459 98.92418772563177], dist: 165.227235, max_est_dist: 69.000000}
+2018-02-13 16:33:46,466 [INFO] Saved frame 5488.
+2018-02-13 16:33:46,662 [INFO] Point rejected due to distance: {pos: [63.42245989304813 101.55882352941177], dist: 77.222314, max_est_dist: 69.000000}
+2018-02-13 16:33:46,666 [INFO] Saved frame 5490.
+2018-02-13 16:33:46,763 [INFO] Point rejected due to acceleration: {pos: [63.42245989304813 101.55882352941177], vel: [-8.813616794143954 -0.05102420734218913], new_vel: [119.33022827899488 -3.2039848197343446], accel: 128.182628}
+2018-02-13 16:33:46,766 [INFO] Point rejected due to acceleration: {pos: [63.42245989304813 101.55882352941177], vel: [-8.813616794143954 -0.05102420734218913], new_vel: [132.80231074915372 -2.101636985069277], accel: 141.630773}
+2018-02-13 16:33:46,865 [INFO] Point rejected due to acceleration: {pos: [63.42245989304813 101.55882352941177], vel: [-4.406808397071977 -0.025512103671094567], new_vel: [148.07754010695186 -1.9049773755656076], accel: 152.495931}
+2018-02-13 16:33:47,665 [INFO] Saved frame 5500.
+2018-02-13 16:33:47,763 [INFO] Point rejected due to acceleration: {pos: [147.7798982188295 27.424936386768447], vel: [-26.56503723721648 -11.909895795030423], new_vel: [-25.85732283170644 53.8057074600123], accel: 65.719414}
+2018-02-13 16:33:47,768 [INFO] Saved frame 5501.
+2018-02-13 16:33:57,665 [INFO] Saved frame 5600.
+2018-02-13 16:34:01,962 [INFO] Point rejected due to distance: {pos: [184.0 101.0], dist: 93.612230, max_est_dist: 69.000000}
+2018-02-13 16:34:01,966 [INFO] Saved frame 5643.
+2018-02-13 16:34:07,664 [INFO] Saved frame 5700.
+2018-02-13 16:34:08,562 [INFO] Point rejected due to acceleration: {pos: [43.72463768115942 103.31884057971013], vel: [-21.171198992335675 4.37344942004791], new_vel: [31.95281329923273 -1.265899403239544], accel: 53.422495}
+2018-02-13 16:34:08,566 [INFO] Saved frame 5709.
+2018-02-13 16:34:17,663 [INFO] Saved frame 5800.
+2018-02-13 16:34:27,664 [INFO] Saved frame 5900.
+2018-02-13 16:34:37,663 [INFO] Saved frame 6000.
+2018-02-13 16:34:37,665 [INFO] 99ms / frame : 10fps
+2018-02-13 16:34:37,761 [INFO] Starting phase: Phase(phasenum=2, length=10, dostim=False, background='')
+2018-02-13 16:34:47,663 [INFO] Saved frame 6100.
+2018-02-13 16:34:57,662 [INFO] Saved frame 6200.
+2018-02-13 16:35:07,661 [INFO] Saved frame 6300.
+2018-02-13 16:35:17,661 [INFO] Saved frame 6400.
+2018-02-13 16:35:27,660 [INFO] Saved frame 6500.
+2018-02-13 16:35:37,659 [INFO] Saved frame 6600.
+2018-02-13 16:35:47,659 [INFO] Saved frame 6700.
+2018-02-13 16:35:57,658 [INFO] Saved frame 6800.
+2018-02-13 16:36:07,658 [INFO] Saved frame 6900.
+2018-02-13 16:36:17,657 [INFO] Saved frame 7000.
+2018-02-13 16:36:17,658 [INFO] 99ms / frame : 10fps
+2018-02-13 16:36:27,657 [INFO] Saved frame 7100.
+2018-02-13 16:36:37,656 [INFO] Saved frame 7200.
+2018-02-13 16:36:47,655 [INFO] Saved frame 7300.
+2018-02-13 16:36:57,654 [INFO] Saved frame 7400.
+2018-02-13 16:37:07,654 [INFO] Saved frame 7500.
+2018-02-13 16:37:17,653 [INFO] Saved frame 7600.
+2018-02-13 16:37:27,652 [INFO] Saved frame 7700.
+2018-02-13 16:37:37,652 [INFO] Saved frame 7800.
+2018-02-13 16:37:47,651 [INFO] Saved frame 7900.
+2018-02-13 16:37:57,650 [INFO] Saved frame 8000.
+2018-02-13 16:37:57,652 [INFO] 99ms / frame : 10fps
+2018-02-13 16:38:07,650 [INFO] Saved frame 8100.
+2018-02-13 16:38:17,649 [INFO] Saved frame 8200.
+2018-02-13 16:38:27,648 [INFO] Saved frame 8300.
+2018-02-13 16:38:37,647 [INFO] Saved frame 8400.
+2018-02-13 16:38:47,646 [INFO] Saved frame 8500.
+2018-02-13 16:38:52,443 [INFO] Point rejected due to acceleration: {pos: [191.07257383966243 99.61434599156118], vel: [-1.785887005546421 2.2269178014076574], new_vel: [-2.1716729387615317 -53.89963127684647], accel: 56.127875}
+2018-02-13 16:38:52,447 [INFO] Saved frame 8548.
+2018-02-13 16:38:53,345 [INFO] Point rejected due to distance: {pos: [88.49425287356321 40.54754440961337], dist: 133.402159, max_est_dist: 69.000000}
+2018-02-13 16:38:53,349 [INFO] Saved frame 8557.
+2018-02-13 16:38:56,769 [INFO] Point rejected due to distance: {pos: [24.0 33.0], dist: 173.933041, max_est_dist: 69.000000}
+2018-02-13 16:38:56,773 [INFO] Saved frame 8591.
+2018-02-13 16:38:56,943 [INFO] Point rejected due to distance: {pos: [25.0 64.5], dist: 170.725203, max_est_dist: 69.000000}
+2018-02-13 16:38:56,947 [INFO] Saved frame 8593.
+2018-02-13 16:38:57,142 [INFO] Point rejected due to distance: {pos: [30.0 88.0], dist: 154.909464, max_est_dist: 69.000000}
+2018-02-13 16:38:57,146 [INFO] Saved frame 8595.
+2018-02-13 16:38:57,645 [INFO] Saved frame 8600.
+2018-02-13 16:38:58,344 [INFO] Point rejected due to distance: {pos: [29.902031063321385 99.92592592592592], dist: 164.898000, max_est_dist: 69.000000}
+2018-02-13 16:38:58,351 [INFO] Saved frame 8607.
+2018-02-13 16:38:58,442 [INFO] Point rejected due to distance: {pos: [29.902031063321385 99.92592592592592], dist: 163.567317, max_est_dist: 138.000000}
+2018-02-13 16:39:00,777 [INFO] Saved frame 8631.
+2018-02-13 16:39:07,644 [INFO] Saved frame 8700.
+2018-02-13 16:39:13,242 [INFO] Point rejected due to acceleration: {pos: [130.76574307304787 62.53988245172124], vel: [46.753491325789916 13.94752661861823], new_vel: [-1.744559272424823 37.29376240809184], accel: 53.824786}
+2018-02-13 16:39:13,246 [INFO] Saved frame 8756.
+2018-02-13 16:39:13,442 [INFO] Point rejected due to acceleration: {pos: [114.0367929708951 98.5046677649643], vel: [23.376745662894958 6.973763309309115], new_vel: [-34.56789344936401 -6.613120715522513], accel: 59.516255}
+2018-02-13 16:39:13,446 [INFO] Saved frame 8758.
+2018-02-13 16:39:13,645 [INFO] Saved frame 8760.
+2018-02-13 16:39:17,444 [INFO] Saved frame 8798.
+2018-02-13 16:39:17,644 [INFO] Saved frame 8800.
+2018-02-13 16:39:17,941 [INFO] Point rejected due to distance: {pos: [61.5 103.0], dist: 87.411691, max_est_dist: 69.000000}
+2018-02-13 16:39:17,945 [INFO] Saved frame 8803.
+2018-02-13 16:39:19,245 [INFO] Saved frame 8816.
+2018-02-13 16:39:20,346 [INFO] Saved frame 8827.
+2018-02-13 16:39:20,783 [INFO] Saved frame 8831.
+2018-02-13 16:39:24,346 [INFO] Saved frame 8867.
+2018-02-13 16:39:27,643 [INFO] Saved frame 8900.
+2018-02-13 16:39:37,643 [INFO] Saved frame 9000.
+2018-02-13 16:39:37,644 [INFO] 99ms / frame : 10fps
+2018-02-13 16:39:38,943 [INFO] Saved frame 9013.
+2018-02-13 16:39:47,642 [INFO] Saved frame 9100.
+2018-02-13 16:39:57,642 [INFO] Saved frame 9200.
+2018-02-13 16:40:07,641 [INFO] Saved frame 9300.
+2018-02-13 16:40:17,641 [INFO] Saved frame 9400.
+2018-02-13 16:40:27,640 [INFO] Saved frame 9500.
+2018-02-13 16:40:37,640 [INFO] Saved frame 9600.
+2018-02-13 16:40:47,639 [INFO] Saved frame 9700.
+2018-02-13 16:40:57,638 [INFO] Saved frame 9800.
+2018-02-13 16:41:07,637 [INFO] Saved frame 9900.
+2018-02-13 16:41:17,637 [INFO] Saved frame 10000.
+2018-02-13 16:41:17,638 [INFO] 99ms / frame : 10fps
+2018-02-13 16:41:27,636 [INFO] Saved frame 10100.
+2018-02-13 16:41:37,636 [INFO] Saved frame 10200.
+2018-02-13 16:41:47,635 [INFO] Saved frame 10300.
+2018-02-13 16:41:57,634 [INFO] Saved frame 10400.
+2018-02-13 16:42:07,634 [INFO] Saved frame 10500.
+2018-02-13 16:42:17,633 [INFO] Saved frame 10600.
+2018-02-13 16:42:27,632 [INFO] Saved frame 10700.
+2018-02-13 16:42:37,631 [INFO] Saved frame 10800.
+2018-02-13 16:42:47,631 [INFO] Saved frame 10900.
+2018-02-13 16:42:57,630 [INFO] Saved frame 11000.
+2018-02-13 16:42:57,631 [INFO] 99ms / frame : 10fps
+2018-02-13 16:43:07,630 [INFO] Saved frame 11100.
+2018-02-13 16:43:17,628 [INFO] Saved frame 11200.
+2018-02-13 16:43:27,628 [INFO] Saved frame 11300.
+2018-02-13 16:43:37,627 [INFO] Saved frame 11400.
+2018-02-13 16:43:47,627 [INFO] Saved frame 11500.
+2018-02-13 16:43:57,626 [INFO] Saved frame 11600.
+2018-02-13 16:44:07,626 [INFO] Saved frame 11700.
+2018-02-13 16:44:17,625 [INFO] Saved frame 11800.
+2018-02-13 16:44:27,624 [INFO] Saved frame 11900.
+2018-02-13 16:44:37,624 [INFO] Saved frame 12000.
+2018-02-13 16:44:37,625 [INFO] 99ms / frame : 10fps
+2018-02-13 16:44:37,722 [INFO] End of last phase reached; exiting.
+2018-02-13 16:44:37,732 [INFO] Status percentages:
+2018-02-13 16:44:37,733 [INFO]   acquired: 99.3
+2018-02-13 16:44:37,734 [INFO]       lost:  0.3
+2018-02-13 16:44:37,735 [INFO]    missing:  0.4

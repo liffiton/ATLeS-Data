@@ -1,0 +1,43 @@
+; Command line:
+;    "/home/pi/fishycam/src/atles_box.py --inifile /home/pi/fishycam/ini/ac_shock_right50.ini --phases 5,off, --phases 5,on, --phases 10,off, --notes '' ACTEST2"
+;
+; Configuration:
+[camera]
+exposure = 200
+fov_height = 0.125
+fov_width = 0.22
+fps = 10
+frame_h = 180
+frame_w = 240
+tank_max_x = 0.96
+tank_max_y = 0.77
+tank_min_x = 0.0
+tank_min_y = 0.1
+
+[phases]
+phase_1_background = 
+phase_1_dostim = False
+phase_1_length = 5
+phase_2_background = 
+phase_2_dostim = True
+phase_2_length = 5
+phase_3_background = 
+phase_3_dostim = False
+phase_3_length = 10
+phases_argstrings = -p 5,off, -p 5,on, -p 10,off,
+phases_data = [Phase(phasenum=1, length=5, dostim=False, background=''), Phase(phasenum=2, length=5, dostim=True, background=''), Phase(phasenum=3, length=10, dostim=False, background='')]
+
+[tracking]
+start_frame = 10
+
+[experiment]
+ambient_light_level = 300
+controller = controllers.FixedRatioController(response_step=1)
+stimulus = stimulus.AlternatingElectricalStimulus(ac_freq_Hz=20, active_freq_Hz=1, duty_cycle=0.15, safety_limit=15)
+trigger = xpos > 0.50
+
+[general]
+boxname = bbox1
+inifile = /home/pi/fishycam/ini/ac_shock_right50.ini
+notes = 
+
